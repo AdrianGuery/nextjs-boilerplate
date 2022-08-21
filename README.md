@@ -4,6 +4,8 @@
 <img src="https://unpkg.com/prettier-logo@1.0.3/images/prettier-banner-light.svg" alt="Prettier" height=100/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="Sass" height=100/>
 <img src="https://stylelint.io/img/light.svg" alt="Stylelint" height=100/>
+<img src="https://jestjs.io/img/jest.png" alt="Stylelint" height=100/>
+<img src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" alt="Stylelint" height=100/>
 </p>
 
 # Next.js boilerplate
