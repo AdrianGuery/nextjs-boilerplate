@@ -1,6 +1,7 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
+import Counter from "../components/Counter/Counter";
 import css from "../styles/Home.module.scss";
 
 const Home: NextPage = () => {
@@ -21,6 +22,8 @@ const Home: NextPage = () => {
           Get started by editing{" "}
           <code className={css.code}>pages/index.tsx</code>
         </p>
+
+        <Counter />
 
         <div className={css.grid}>
           <a href="https://nextjs.org/docs" className={css.card}>

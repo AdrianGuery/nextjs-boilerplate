@@ -1,0 +1,26 @@
+.counterContainer {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  max-width: 800px;
+
+  button {
+    height: 100%;
+    padding: 10px;
+
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.5rem;
+
+    background-color: #0070f3;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .count {
+    color: #0070f3;
+    font-weight: bold;
+    font-size: 2rem;
+  }
+}
